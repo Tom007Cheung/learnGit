@@ -1,0 +1,3 @@
+author: zhangyadong
+mode: Git
+version: 1.0
